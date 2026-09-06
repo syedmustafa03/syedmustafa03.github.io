@@ -17,6 +17,20 @@ export const projects = [
       demo: '',
     },
   },
+  {
+    hash: '3f2b1cf',
+    title: "Agentic RAG System",
+    message: 'Perform multi-step reasoning over documents with an agentic RAG system',
+    description:
+    'Agentic RAG system built with LangGraph, GPT-4o, FAISS, and Tavily, featuring dynamic routing, semantic document grading, and a React/Streamlit interface.',
+    stack: ['Langgraph', 'GPT-4o', 'FAISS', 'Tavily', 'React', 'Streamlit',],
+    diff: {added:141, removed: 22},
+    links: {
+      repo: 'https://github.com/syedmustafa03/Agentic-RAG-System',
+      demo: '',
+    },
+
+  }
 ]
 
 export const skills = {
