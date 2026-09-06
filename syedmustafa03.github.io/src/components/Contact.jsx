@@ -10,8 +10,8 @@ export default function Contact() {
           Open to internships, collaboration, and interesting problems. Reach out through any of these:
         </p>
         <div className="contact-list">
-          <a href="mailto:syyedmustafa03@gmail.com">
-            <span className="k">email</span> syyedmustafa03@gmail.com
+          <a href="mailto:syyedmustafa3@gmail.com">
+            <span className="k">email</span> syyedmustafa3@gmail.com
           </a>
           <a href="https://github.com/syedmustafa" target="_blank" rel="noreferrer">
             <span className="k">github</span> github.com/syedmustafa03

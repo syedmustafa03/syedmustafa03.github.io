@@ -30,7 +30,7 @@ export const projects = [
       demo: '',
     },
 
-  },
+  }
 ]
 
 export const skills = {
